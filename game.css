@@ -30,8 +30,11 @@
 }
 
 .incorrect {
-    background-color: #dc3545;
-    
+    background-color: #dc3545;   
+}
+
+.incorrect p {
+    color: white;
 }
 #hud {
     display: flex;
